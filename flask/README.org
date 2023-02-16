@@ -1,3 +1,13 @@
+https://Flask-Project.amandalee1.repl.co
+
+https://Flask-Project.amandalee1.repl.co/about
+
+https://flask-project.amandalee1.repl.co/ethics_index
+
+https://Flask-Project.amandalee1.repl.co/lucky
+
+https://Flask-Project.amandalee1.repl.co/temp_demo
+
 * Instructions
 
 ** If you are presenting this unit:
